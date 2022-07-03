@@ -1,3 +1,9 @@
+// FOOTER RENDER
+function footerF() {
+  document.getElementById("kt_footer").innerHTML = "<div class='d-flex flex-lg-column footer py-4'id=kt_footer><div class='d-flex container-fluid flex-column flex-md-row flex-stack'><div class='order-2 order-md-1 text-dark'><span class='fw-bold me-2 text-muted'>2022©</span> <a class='text-gray-800 text-hover-primary'href=# target=_blank>Dashboard</a></div><ul class='fw-bold menu menu-gray-600 menu-hover-primary order-1'><li class=menu-item><a class='menu-link px-2'href=# target=_blank>Nosotros</a><li class=menu-item><a class='menu-link px-2'href=# target=_blank>Soporte</a><li class=menu-item><a class='menu-link px-2'href=# target=_blank>Contacto</a></ul></div></div>";
+}
+footerF();
+
 /*!
  * jQuery JavaScript Library v3.6.0
  * https://jquery.com/
